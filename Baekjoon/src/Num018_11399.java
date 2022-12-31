@@ -69,3 +69,4 @@ public class Num018_11399 {
 		System.out.print(result);
 	}
 }
+//수정...
