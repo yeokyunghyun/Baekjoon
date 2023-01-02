@@ -28,6 +28,7 @@ public class Num020_2751 {
 		for(int i = 0; i < num; ++i) {
 			bw.write(arr[i] + "\n");
 		}
+		
 		bw.flush();
 		bw.close();
 	}
